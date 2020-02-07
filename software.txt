@@ -1,0 +1,6 @@
+django
+bs4
+BeautifulSoup4
+pandas
+datetime
+requests
